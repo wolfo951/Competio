@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold "Server=localhost;Database=dbo;user=root;password=slaptasKodas69" Pomelo.EntityFrameworkCore.MySql -o Models -f
